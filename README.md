@@ -1,4 +1,4 @@
-# LinkedIn-Clone
+# Amazon-Clone
 Amazon Clone using React with Material-UI.
 
 Database and Hosted using Firebase. 
